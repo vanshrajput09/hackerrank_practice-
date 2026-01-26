@@ -13,4 +13,5 @@ Repository Structure
 ├── functions_in_c.c
 ├── playing_with_characters.c
 ├── sum_and_difference_of_two_numbers.c
+├── 1D_arrays_in_C.c
 └── ....
