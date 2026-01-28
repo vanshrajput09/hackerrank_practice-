@@ -16,4 +16,5 @@ Repository Structure
 ├── 1D_arrays_in_C.c
 ├── for_loop_in_C.c
 ├── pointers_in_c.c
+├── array_reversal.c
 └── ....
