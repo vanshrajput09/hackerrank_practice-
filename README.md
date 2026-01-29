@@ -18,4 +18,5 @@ Repository Structure
 ├── pointers_in_c.c
 ├── array_reversal.c
 ├── printing_tokens.c
+├── students_marks_sum.c
 └── ....
