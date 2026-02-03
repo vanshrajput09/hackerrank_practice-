@@ -1,4 +1,4 @@
-# hackerrank_practice-
+# hackerrank_practice-c
 This repository contains my daily practice solutions for HackerRank problems.
 I consistently solve problems across multiple topics and store each solution in a separate file for better organization, readability, and long-term revision.
 
