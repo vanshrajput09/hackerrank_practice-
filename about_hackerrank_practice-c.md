@@ -23,4 +23,5 @@ Repository Structure
 ├── conditional_statements_in _C.c
 ├── Create bitwise_operators.c
 ├── calculate_the_Nth_term.c
+├── digit_frequency.c
 └── ....
