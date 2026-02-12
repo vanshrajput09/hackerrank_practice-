@@ -24,4 +24,5 @@ Repository Structure
 ├── Create bitwise_operators.c
 ├── calculate_the_Nth_term.c
 ├── digit_frequency.c
+├── printing_pattern_using_loops.c
 └── ....
